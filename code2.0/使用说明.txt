@@ -1,0 +1,4 @@
+1.安装python3.7（请自行百度）
+2.在当前文件夹下打开终端，输入 pip3 install -r requirements.txt （如果出现问题就去掉3）
+3.在终端输入 python3 formal.py（如果出现问题就去掉3）
+4.请灵活使用google/baidu等搜索引擎

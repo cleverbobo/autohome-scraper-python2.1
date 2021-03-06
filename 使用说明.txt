@@ -1,0 +1,5 @@
+1.win10 直接点击exe文件执行（get_car_data2.1/dist/formal/formal.exe）
+2.mac可尝试运行源码
+3.mac使用虚拟机
+必须要安装谷歌浏览器，必须要安装谷歌浏览器，必须要安装谷歌浏览器
+建议mac直接使用源码
